@@ -1,2 +1,2 @@
-# StoryHouse Production's Main Site.
+# EchoStory's Main Site.
 ## WIP, Coming soon!
