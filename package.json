@@ -20,8 +20,10 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@tailwindcss/postcss": "^4.1.11",
+		"@tailwindcss/vite": "^4.1.11",
 		"autoprefixer": "^10.4.20",
-		"daisyui": "^4.12.10",
+		"daisyui": "^5.0.50",
 		"tailwindcss": "^4.1.11"
 	}
 }
